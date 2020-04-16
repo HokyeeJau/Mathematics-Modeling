@@ -12,3 +12,4 @@ This is the code file set for Mathematics Modeling.
 
 ## Templates of Mathematics Modeling
 * [Linear Programming](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/Templates/B1-Chapter%201.%20Linear%20Programming.ipynb)
+* [Integer Programming](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/Templates/B1-Chapter%202%20Integer%20Programming.ipynb)
