@@ -6,6 +6,7 @@ This is the code file set for Mathematics Modeling.
 * [Describing Data with Statistics](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/DoingMathWithPython/Describing%20%20Data%20With%20Statistics.ipynb)
 * [Visualize Data with Graphs](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/DoingMathWithPython/Visualizing%20Data%20With%20Graphs.ipynb)
 * [Algebra and Symbolic Math with Simpy](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/DoingMathWithPython/Algebra%20and%20Symbolic%20Math%20with%20Simpy.ipynb)
+* [Playing with Sets and Probability](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/DoingMathWithPython/Playing%20With%20Sets%20and%20Probability.ipynb)
 
 ## Data Science Model
 * [Linear Regression](https://github.com/HokyeeJau/Mathematics-Modeling/blob/master/DataScienceModel/Linear%20Regression.ipynb)
